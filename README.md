@@ -1,2 +1,2 @@
 # firstRepo
-My name is suresh rai rai
+My name is suresh rai
